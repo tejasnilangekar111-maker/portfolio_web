@@ -2,7 +2,7 @@
 
 Personal portfolio website of **Tejas Nilangekar**, Java Backend Developer at TransUnion.
 
-🔗 **Live site:** https://tejasnilangekar111-maker.github.io
+🔗 **Live site:** https://tejasnilangekar111-maker.github.io/portfolio_web/
 
 ## About
 
@@ -37,7 +37,7 @@ This site showcases my:
 Clone the repository and open `index.html` in a browser:
 
 ```bash
-git clone https://github.com/tejasnilangekar111-maker/tejasnilangekar111-maker.github.io.git
+git clone https://github.com/tejasnilangekar111-maker/portfolio_web.git
 ```
 
 ## Contact
